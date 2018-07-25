@@ -1,0 +1,40 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    background: #B79891; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #94716B, #B79891); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #94716B, #B79891); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Fira Sans', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 10vh;
+}
+
+body h1 {
+    font-size: 4rem;
+}
+
+body p {
+    font-size: 3rem;
+}
+
+main {
+    font-family: 'Changa', sans-serif;
+    line-height: 10px;
+    padding-top: 10vh;
+}
+
+main img {
+    height: 100px;
+    width: 100px;
+}
+
+.pointer {
+    cursor: pointer;
+}
